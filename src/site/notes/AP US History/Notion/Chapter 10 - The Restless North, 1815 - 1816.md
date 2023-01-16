@@ -1,5 +1,5 @@
 ---
-{"Type":"Book notes","Class":"AP US History","dg-publish":true,"permalink":"/ap-us-history/notion/chapter-10-the-restless-north-1815-1816/","dgPassFrontmatter":true}
+{"Type":"Book notes","Class":"AP US History","dg-publish":true,"Date":"2023-01-16","permalink":"/ap-us-history/notion/chapter-10-the-restless-north-1815-1816/","dgPassFrontmatter":true}
 ---
 
 
