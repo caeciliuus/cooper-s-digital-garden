@@ -1,5 +1,5 @@
 ---
-{"Type":"Lecture notes","Class":"AP US History","dg-publish":true,"permalink":"/ap-us-history/notion/antebellum-ln/","dgPassFrontmatter":true}
+{"Type":"Lecture notes","Class":"AP US History","dg-publish":true,"Date":"2023-01-16","permalink":"/ap-us-history/notion/antebellum-ln/","dgPassFrontmatter":true}
 ---
 
 ---
